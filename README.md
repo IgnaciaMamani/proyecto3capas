@@ -83,3 +83,5 @@
 
 ## prueba
 - abrir en el navegador http://localhost:3000 y para ver los registros o solicitudes: http://localhost:3000/api/solicitudes
+
+## link github: https://github.com/IgnaciaMamani/proyecto3capas.git
